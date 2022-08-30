@@ -136,6 +136,9 @@ git clone https://github.com/leiphp/mall-store-web
 
 cd vue-store
 npm install
+或者使用yarn来安装：
+npm install yarn -g
+yarn install
 
 3. Compiles and hot-reloads for development
 
