@@ -133,7 +133,7 @@
 git clone https://github.com/leiphp/mall-store-web
 
 2. Project setup
-
+//推荐使用node-v16.13.0-x64版本
 cd vue-store
 npm install
 或者使用yarn来安装：
